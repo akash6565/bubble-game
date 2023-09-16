@@ -1,0 +1,8 @@
+# bubble-game
+just play and have fun !!!!
+
+                 START THE GAME BY FROM GITHUB PAGES.
+
+                 THEN ON A NEW WINDOW REFRESH WHEN GAME ENDS THIS WILL AGAIN RESTART THE GAME.
+
+                 ALSO CHALLENGE WITH YOUR FRIENDS TO SCORE HIGHER.
